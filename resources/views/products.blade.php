@@ -10,6 +10,7 @@
             <tr>
                 <th>Produto</th>
                 <th>Descrição</th>
+                <th>Categoria</th>
                 <th>Preço</th>
             </tr>
         </thead>
